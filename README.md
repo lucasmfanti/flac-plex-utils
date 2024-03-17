@@ -27,6 +27,7 @@ To organize your music library for a Plex Music Server, it's recommended to foll
         \Album 1
         \Album 2
         \Album 3
+```plaintext
 
 In this structure:
 - The root folder is named "Music."
