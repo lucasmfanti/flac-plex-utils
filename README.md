@@ -18,6 +18,7 @@ FLAC (Free Lossless Audio Codec) is a popular audio format known for its high-qu
 
 To organize your music library for a Plex Music Server, it's recommended to follow a specific folder structure. Here's an example of the folder architecture:
 
+```plaintext
 \Music
     \Artist A
         \Album 1
